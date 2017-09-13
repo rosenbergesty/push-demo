@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "761659495539",
+    "firebase_url": "https://push-notification-demo-179716.firebaseio.com",
+    "project_id": "push-notification-demo-179716",
+    "storage_bucket": "push-notification-demo-179716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761659495539:android:c080ddcbe91883c2",
+        "android_client_info": {
+          "package_name": "com.estyrosenberg.pushdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761659495539-evrag5sormrv6mva44ev9jl9menamsg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPsuudzgkEJjan4NxyB-Ut2VQOzPvj_h8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
